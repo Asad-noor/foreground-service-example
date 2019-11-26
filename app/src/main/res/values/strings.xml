@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">foreground-service-example</string>
+    <string name="action_settings">Settings</string>
+</resources>
